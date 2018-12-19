@@ -6,8 +6,6 @@
 
 ## 游戏截图
 
-![avatar](http://img.xiaoji001.com//files/5003763/6c73b15593f4129fcc271fb38689313c.png)
+![github-raw](https://raw.githubusercontent.com/CTLifeHand/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s000.png)
 
-![avatar](http://img.xiaoji001.com//files/5003763/6c73b15593f4129fcc271fb38689313c.png)
-
-![avatar](http://img.xiaoji001.com//files/5003763/6c73b15593f4129fcc271fb38689313c.png)
+![github-raw](https://raw.githubusercontent.com/CTLifeHand/games-images-backup/master/GBA/塞尔达传说%20缩小帽/1100265.s001.png)

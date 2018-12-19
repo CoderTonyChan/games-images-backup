@@ -6,8 +6,5 @@
 
 ## 游戏截图
 
-![avatar](http://img.xiaoji001.com//files/5003763/6c73b15593f4129fcc271fb38689313c.png)
+![github-raw](https://raw.githubusercontent.com/CTLifeHand/games-images-backup/master/PS/洛克人X4/5003763_20181218233021.png)
 
-![avatar](http://img.xiaoji001.com//files/5003763/6c73b15593f4129fcc271fb38689313c.png)
-
-![avatar](http://img.xiaoji001.com//files/5003763/6c73b15593f4129fcc271fb38689313c.png)
