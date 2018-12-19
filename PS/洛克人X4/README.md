@@ -6,5 +6,5 @@
 
 ## 游戏截图
 
-![github-raw](https://raw.githubusercontent.com/CTLifeHand/games-images-backup/master/PS/洛克人X4/5003763_20181218233021.png)
+![github-raw](https://raw.githubusercontent.com/CoderTonyChan/games-images-backup/master/PS/洛克人X4/5003763_20181218233021.png)
 
